@@ -27,3 +27,15 @@
         display: none;
     }
 }
+@media screen and (max-width: 1062px) {
+   
+    h2{
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 920px) {
+   
+    h2{
+        font-size: 30px;
+    }
+}
