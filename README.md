@@ -1,5 +1,5 @@
 <h1 align="center">Meditation Space</h1>
-https://img.shields.io/badge/< >-<Linkedin>-<blue>
+
 
 Landing Page para grupo de meditação feita com HTML e CSS apenas.
 
